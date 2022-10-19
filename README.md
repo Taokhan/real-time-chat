@@ -13,6 +13,6 @@ Command:
 #### Frontend ####
 
 <p align="center">
-  <img href="https://angular.io/" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular-logo" width="120px" height="120px"/>
+<a href="https://angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
