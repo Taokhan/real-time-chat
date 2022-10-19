@@ -14,9 +14,5 @@ Command:
 
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular-logo" width="120px" height="120px"/>
-  <br>
-  <i>Angular is a development platform for building mobile and desktop web applications
-    <br> using Typescript/JavaScript and other languages.</i>
-  <br>
 </p>
 
